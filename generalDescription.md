@@ -54,4 +54,10 @@ The Hustler's entire run is digitized by both Central Library and the Hustler we
 
 Tracking student orgs vs. time and job market could be an interesting way of measuring the role played by passion through indirect observation.
 
+# Writing
 
+We need to be very emphatic on the role played by writing in this initative. This is not a data project: it is a data journalism one. As such, we will write several articles and pieces of text that will unpack the findings made by the surveys.
+
+# Events
+
+Hosting talks and a potential panel on this project is fully doable and a great thing to look forward to! We have to be passionate about this, right?
